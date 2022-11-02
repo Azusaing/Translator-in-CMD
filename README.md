@@ -4,4 +4,4 @@
 * translate between English and Chinese
 ## Progress
 * -[x] deal with single word 
-* -[ ] deal with sentences and passenges [1/INT_MAX]
+* -[ ] deal with sentences and passenges [1/INT_MAX] 🤣
