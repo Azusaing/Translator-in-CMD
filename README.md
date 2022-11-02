@@ -3,5 +3,5 @@
 * load src file **Translator.exe** in command line
 * translate between English and Chinese
 ## Progress
-* -[x] deal with single word 
+* -[x] deal with single-word input
 * -[ ] deal with sentences and passenges [1/INT_MAX] 🤣
