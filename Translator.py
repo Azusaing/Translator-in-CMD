@@ -1,7 +1,7 @@
 import re
 import requests
 
-# func to query in baidu's translation web, but single-word input is supported only
+# func to query in baidu's translation web, but single-phrase input is supported only
 def query_online(keyword) -> None:
     first_attempt = requests.post(
         url="https://fanyi.baidu.com/sug",
