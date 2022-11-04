@@ -4,5 +4,5 @@
 * translate between English and Chinese
 ## Progress
 * -[x] deal with single-phrase input
-* -[ ] deal with sentences and passenges [1/INT_MAX] 🤣
+* -[ ] deal with sentences and passages [1/INT_MAX] 🤣
 * -[ ] file IO
