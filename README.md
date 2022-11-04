@@ -1,4 +1,4 @@
-# Translator-in-CommandLine-
+# Translator-in-CommandLine!
 ## Tips
 * load src file **Translator.exe** in command line
 * translate between English and Chinese
