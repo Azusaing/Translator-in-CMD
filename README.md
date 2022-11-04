@@ -5,3 +5,4 @@
 ## Progress
 * -[x] deal with single-phrase input
 * -[ ] deal with sentences and passenges [1/INT_MAX] 🤣
+* -[ ] file IO
